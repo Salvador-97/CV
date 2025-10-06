@@ -1,0 +1,33 @@
+# Archivos auxiliares de LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.lof
+*.log
+*.lot
+*.fls
+*.fdb_latexmk
+*.out
+*.toc
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# Archivos de compilación PDF
+#*.pdf
+
+# Archivos generados por latexmk
+*.lg
+*.run.xml
+
+# Archivos de respaldo (opcional)
+*~
+*.bak
+*.backup
+
+# Archivos temporales del editor
+*.swp
+*.swo
+*.tmp
